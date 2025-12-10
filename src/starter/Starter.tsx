@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import React, { useState } from 'react';
 import { Layout } from '../components/Layout.tsx';
 import { ADJACENCY, type TileType } from '../core/constants.ts';

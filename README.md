@@ -4,9 +4,6 @@ An interactive web-based educational tool for learning and exploring Wave Functi
 
 ![WFC Dungeon Generator](https://via.placeholder.com/800x400/1a1a2e/4caf50?text=WFC+Dungeon+Generator)
 
-##  Live Demo
-
-**[Try it here](link)** *(Deploy to GitHub Pages and update this link)*
 
 ##  What is Wave Function Collapse?
 
@@ -254,4 +251,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it helpful for learning WFC!**
 
-Made with ❤️ for game developers and computer science students.
+Made for game developers and computer science students.
